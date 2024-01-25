@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Denys, a full-time Front-end freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on ([https://github.com/rishavanand/github-profilinator](https://github.com/Denys-Haidemskyi))  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning JavaScript Frameworks
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
