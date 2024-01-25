@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning **Web3, GameDev**
 - 📝 I regularly write articles on [Twitter](https://twitter.com/DHaidemskyi)
 - 📄 Know about my experiences [CV](cv-link)
-- 📫 Reach me by [LinkedIn]([linkedin-link](https://www.linkedin.com/in/denis-haidemskiy-744068286/)), [email](mailto:email-address)
+- 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/denis-haidemskiy-744068286/), [email](mailto:denis.haidemskiy@gmail.com)
 - 🌍 I speak English
 
 ---
