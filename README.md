@@ -1,43 +1,49 @@
-<h1 align="center">👋 Hello! I'm BaggerFast </h1>
+<div id="header" align="center">
+    <h1>Hi there, I'm  Ivan </h1>
+    <h3>Full Stack Developer from New York</h3>
+</div>
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
+<div id="socials" align="center">
+    <a href="linkedin-url">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="twitter-url">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="telegram-url">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
 
-## About me
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/BaggerFast)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/baggerfast)
+### About me
+- 🌱 I’m currently learning **Web3, GameDev**
+- 📝 I regularly write articles on [Medium](medium-link)
+- 📄 Know about my experiences [CV](cv-link)
+- 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
+- 🌍 I speak English
 
-I'm a backend developer from Russia, working at [@VladStandard](https://github.com/VladStandard) / [@Elixor](https://github.com/ElixorTeam).  
+---
 
-I'm interested in web development, games. I hate JavaScript💀  
-At the same time, I upload videos on YouTube and teach students programming.
+### Languages and tools
 
-## 📌Pinned
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BaggerFast&repo=ItManuals&theme=dracula&bg_color=00000000&)](https://github.com/BaggerFast/ItManuals)
-
-
-<details align="left">
-  <summary><h2><b>📚 My stack</b></h2></summary>
-  <p>
-    <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,py,java,html,css,postgres,sqlite&perline=7" />
-    <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=unity,gradle,spring,linux,hibernate,githubactions,django,docker,git,bootstrap&perline=7" />
-    <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=visualstudio,idea,neovim,postman,ultimate&perline=7" />
-    <br>
-  </p>
-</details>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="angular" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node" width="40" height="40"/>&nbsp;
 
 
-<details align="left">
-  <summary><h2><b>⭐GitHub stats</b></h2></summary>
-  <p>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaggerFast&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
-   <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=BaggerFast&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
-    <br>
-   <img src="https://metrics.lecoq.io/baggerfast" />
-  </p>
-</details>
+### My stat
+
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=github_dark" alt=""/>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=github_dark" alt=""/>
+</div>
+
+---
