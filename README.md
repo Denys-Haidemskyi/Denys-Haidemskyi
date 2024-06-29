@@ -7,7 +7,7 @@
     <a href="https://www.linkedin.com/in/d-haidemskyi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/DHaidemskyi">
+  <a href="https://x.com/Haidemskyi_D">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://t.me/D_Haidemskyi">
